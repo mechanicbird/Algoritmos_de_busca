@@ -1,0 +1,4 @@
+C:\Users\335667\Desktop\Algoritmo de busca\Atividade_01\obj\Debug\net9.0\Atividade_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\335667\Desktop\Algoritmo de busca\Atividade_01\obj\Debug\net9.0\Atividade_01.AssemblyInfoInputs.cache
+C:\Users\335667\Desktop\Algoritmo de busca\Atividade_01\obj\Debug\net9.0\Atividade_01.AssemblyInfo.cs
+C:\Users\335667\Desktop\Algoritmo de busca\Atividade_01\obj\Debug\net9.0\Atividade_01.csproj.CoreCompileInputs.cache
